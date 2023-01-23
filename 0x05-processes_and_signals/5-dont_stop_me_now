@@ -1,0 +1,4 @@
+#!/usr/bin/env bash                                                                                                            
+#dont stop me now                                                                                                              
+file=$(pgrep -f to_infinity_and_beyond)                                                                                        
+kill $file
