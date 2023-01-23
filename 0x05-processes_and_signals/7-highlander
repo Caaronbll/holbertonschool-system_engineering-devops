@@ -1,6 +1,6 @@
 #!/usr/bin/env bash                                                                                                            
 #stop me if you can
-trap 'echo "i am invincible!!!"' SIGTERM
+trap 'echo "I am invincible!!!"' SIGTERM
 i=1
 while [ $i -gt 0 ]
 do 
